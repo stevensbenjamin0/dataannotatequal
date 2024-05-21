@@ -20,5 +20,5 @@ def decode(message_file):
     return ' '.join(message_words)
 
 # Example usage:
-decoded_message = decode("coding_qual_input.txt")
+decoded_message = decode("coding_qual_input")
 print(decoded_message)
